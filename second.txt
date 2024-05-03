@@ -1,6 +1,3 @@
 Second file in repo
-<<<<<<< HEAD
 one line added
-=======
 another line directly from github
->>>>>>> d2f86c24b78a8a724389dc71bb7db80dedb9b9a9
